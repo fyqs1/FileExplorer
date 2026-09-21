@@ -18,7 +18,6 @@ TrollStore 文件浏览器（参考 REScout File Browser）。
 ## 打包
 
 ```bash
-cd /Users/tm/zibo_project/workflow/develop_iosApp/FileExplorer
 chmod +x scripts/package_ipa.sh
 ./scripts/package_ipa.sh
 # → FileExplorer.ipa
